@@ -1,0 +1,9 @@
+{
+  "firstName" : "Vibha",
+  "lastName" : "Singh",
+  "age" : 30,
+  "salary" : 75000.0,
+  "designation" : "Manager",
+  "contactNumber" : "+91999996712",
+  "emailId" : "abc123@test.com"
+}
